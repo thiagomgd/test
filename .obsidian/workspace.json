@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "44fb72e25322882b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a81262632177dcf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a407512daea3192",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f0b07d43513fe44",
+    "type": "split",
+    "children": [
+      {
+        "id": "12c0434607b6d80f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7c476e91b656fd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51897c1523fbff62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#media/movie",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "903f9c1f89f58d3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fa4d70f5ddff595",
+    "type": "split",
+    "children": [
+      {
+        "id": "084d36978f98272f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413e9c473e72a4e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5941fe097eefb03b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e92f86071615907",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad2dbef48adfb9dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "51897c1523fbff62",
+  "lastOpenFiles": [
+    "Media/Movies/Santo and Blue Demon vs. Dr. Frankenstein (1974).md",
+    "Media/Movies/Amuck! (1972).md",
+    "Media/Movies",
+    "Media/TV/What We Do in the Shadows (2019).md",
+    "Media/TV/Solar Opposites (2020).md",
+    "Media/TV",
+    "Media"
+  ]
+}
